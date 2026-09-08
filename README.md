@@ -32,7 +32,7 @@ Client and project management SaaS with authentication, dashboards, clients, pro
 
 **Tech:** Next.js · React · TypeScript · Supabase · Tailwind CSS
 
-[View Repository](https://github.com/Ahmedkhayren/clientflow-saas-platform)
+[Live Demo](https://clientflow-saas-platform.vercel.app/) ·     [View Repository](https://github.com/Ahmedkhayren/clientflow-saas-platform)
 
 ---
 
