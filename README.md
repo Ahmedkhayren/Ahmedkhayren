@@ -6,23 +6,15 @@ I work primarily with **Next.js, React, TypeScript, Supabase, Tailwind CSS, and 
 
 ## Tech Stack
 
-**Frontend**
 - Next.js
 - React
 - TypeScript
-- JavaScript
 - Tailwind CSS
-- HTML & CSS
-
-**Backend & Data**
 - Supabase
 - PostgreSQL
-- API Integration
-
-**Tools & Deployment**
+- Sanity CMS
 - Git & GitHub
 - Vercel
-- Sanity CMS
 
 ## Featured Projects
 
